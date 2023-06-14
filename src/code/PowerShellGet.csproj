@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -15,7 +15,7 @@
   <ItemGroup>
     <PackageReference Include="LinqKit.Core" Version="1.1.17" />
     <PackageReference Include="morelinq" Version="3.3.2" />
-    <PackageReference Include="NuGet.Commands" Version="5.8.0" />
+    <PackageReference Include="NuGet.Commands" Version="6.0.5" />
     <PackageReference Include="NuGet.Common" Version="5.8.0" />
     <PackageReference Include="NuGet.Configuration" Version="5.8.0" />
     <PackageReference Include="NuGet.Packaging" Version="5.8.0" />
